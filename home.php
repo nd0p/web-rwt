@@ -15,6 +15,7 @@
                 <li><a href="about/about.php">About</a></li>
                 <li><a href="contact/contact.php">Contact</a></li>
                 <li><a href="otp/otp.php">otp</a></li>
+                <li><a href="nyoba/rwt.php">nyoba</a></li>
                 <?php if (isset($_SESSION['user_id'])): ?>
                     <li><a href="logout.php">Logout</a></li>
                 <?php else: ?>

@@ -25,7 +25,7 @@
     </header>
     <main>
         <h1>Welcome to our website!</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna a ullamcorper elementum, velit velit rhoncus nisl, ut interdum nisi nisi vel nisi. Sed velit nisi, laoreet a consectetur a, vestibulum ac nunc. Sed auctor, magna a ullamcorper elementum, velit velit rhoncus nisl, ut interdum nisi nisi vel nisi. Sed velit nisi, laoreet a consectetur a, vestibulum ac nunc.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, magna a ullamcorper elementum, velit velit rhoncus nisl, ut interdum nisi nisi vel nisi. Sed velit nisi, laoreet a consectetur a, vestibulum ac nunc. Sed auctor, magna a ullamcorper elementum, velit velit rhoncus nisl, ut interdum nisi nisi vel nisi. Sed velit nisi, laoreet a consectetur a, vestibulum ac nunc. ruwet</p>
         <button id="load-more-btn" class="btn btn-primary">Load More</button>
     </main>
     <script src="scripts.js"></script>

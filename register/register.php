@@ -2,7 +2,7 @@
 <html>
 <head>
     <link rel="stylesheet" href="register.css">
-    <title>Registration Page</title>
+    <title>Sign-Up</title>
     <link rel="icon" type="image/x-icon" href="../assets/images/LOGO TAMSIS.png">
 </head>
 <body>

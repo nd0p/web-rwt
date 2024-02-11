@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="rwt.css">
+    <link rel="stylesheet" href="service.css">
 </head>
 <body>
       <!-- Navbar -->
@@ -29,7 +29,7 @@
                 <a class="nav-link mx-lg-2" href="#">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link mx-lg-2" href="../../service/service.php">Service</a>
+                <a class="nav-link mx-lg-2" href="#">Service</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link mx-lg-2" href="https://github.com/nd0p">GitHub</a>
@@ -48,7 +48,7 @@
   <!-- Hero Secton-->
   <section class="hero-section">
     <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
-      <h1>Resposive Navbar</h1>
+      <h1>Service</h1>
       <h2>Bootsrap 5</h1>
     </div>
   </section>

@@ -34,6 +34,9 @@
               <li class="nav-item">
                 <a class="nav-link mx-lg-2" href="https://github.com/nd0p">GitHub</a>
               </li>
+                            <li class="nav-item">
+                <a class="nav-link mx-lg-2" href="nyoba/test.php">nyoba</a>
+              </li>
             </ul>
           </div>
         </div>

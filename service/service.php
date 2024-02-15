@@ -23,13 +23,13 @@
                 <a class="nav-link mx-lg-2 active" aria-current="page" href="../../home.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link mx-lg-2" href="#">About</a>
+                <a class="nav-link mx-lg-2" href="../../about/about.php">About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link mx-lg-2" href="#">Contact</a>
+                <a class="nav-link mx-lg-2" href="../../contact/contact.php">Contact</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link mx-lg-2" href="#">Service</a>
+                <a class="nav-link mx-lg-2" href="../../service/service.php">Service</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link mx-lg-2" href="https://github.com/nd0p">GitHub</a>
@@ -49,7 +49,7 @@
   <section class="hero-section">
     <div class="container d-flex align-items-center justify-content-center fs-1 text-white flex-column">
       <h1>Service</h1>
-      <h2>Bootsrap 5</h1>
+      <h2>Bootstrap 5</h1>
     </div>
   </section>
   <!--End Hero Secton-->

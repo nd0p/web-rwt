@@ -5,6 +5,14 @@ body {
     background-color: #fff;
 }
 
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .btn {
     font-size: 0.8rem;
     font-weight: 700;

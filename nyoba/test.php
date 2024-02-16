@@ -64,8 +64,22 @@
                             </span>
                             <input type="text" class="form-control form-control-lg fs-6" placeholder="Password">
                         </div>
+                        <div class="input-group mb-3 d-flex justify-content-between">
+                            <div class="form-check">
+                                <input type="checkbox" class="form-check-input" id="formCheck">
+                                <label for="formCheck" class="from-check-label text-secondary"><small>Remember Me</small></label>
+                            </div>
+                            <div>
+                                <small><a href="#">Forgot Password?</a></small>
+                            </div>
+                        </div>
+                        <button class="btn btn-primary btn-lg w-100 mb-3">Login</button>
                     </form>
                     <!-- /Form -->
+
+                    <div class="text-center">
+                        <small>Don't have an an account? <a href="#" class="fw-bold">Sign Up</a></small>
+                    </div>
                 </div>
             </div>
         </div>

@@ -51,18 +51,18 @@
                     <!-- /Divider -->
 
                     <!-- Form -->
-                    <form action="#">
+                    <form action="../config/login.php" method="post">
                         <div class="input-group mb-3">
                             <span class="input-group-text">
                                 <i class='bx bx-user' ></i>
                             </span>
-                            <input type="text" class="form-control form-control-lg fs-6" placeholder="NISN">
+                            <input type="text" class="form-control form-control-lg fs-6" placeholder="NISN"  name="NISN">
                         </div>
                             <div class="input-group mb-3">
                             <span class="input-group-text">
                                 <i class='bx bx-lock-alt' ></i>
                             </span>
-                            <input type="text" class="form-control form-control-lg fs-6" placeholder="Password">
+                            <input type="text" class="form-control form-control-lg fs-6" placeholder="Password" name="PASSWORD">
                         </div>
                         <div class="input-group mb-3 d-flex justify-content-between">
                             <div class="form-check">

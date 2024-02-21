@@ -14,7 +14,7 @@
     <div class="row vh-100 g-0">
         <!-- Left Side -->
         <div class="col-lg-6 position-relative d-none d-lg-block">
-            <div class="bg-holder" style="background-image: url(../assets/image/bg1t.jpg);"></div>
+            <div class="bg-holder" style="background-image: url(../assets/images/bg1t.jpg);"></div>
         </div>
         <!-- /Left Side -->
 

@@ -9,6 +9,7 @@
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 
     <link rel="stylesheet" href="test.css">
+    <link rel="icon" href="image/x-icon" type="../assets/images/LOGO TAMSIS.png">
 </head>
 <body>
     <div class="row vh-100 g-0">
@@ -24,7 +25,7 @@
                 <div class="col col-sm-6 col-lg-7 col-xl-6">
 
                     <!-- Logo -->
-                    <a href="#" class="d-flex justify-content-center mb-4">
+                    <a href="../home.php" class="d-flex justify-content-center mb-4">
                         <img src="../assets/images/LOGO TAMSIS.png" alt="" width="60">
                     </a>
                     <!-- /Logo -->
